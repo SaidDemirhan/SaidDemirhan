@@ -1,5 +1,3 @@
-<img align="center" src="https://github.com/SaidDemirhan/SaidDemirhan/blob/main/try.png?raw=true">
-
 <h1 align="center">Hello World! 👋 </h1>
 
 <h3 align="center">✨Full Stack Web Deweloper✨</h3>
@@ -12,6 +10,7 @@
   <li>📫Ask me about Java, SQL, Git-Github, Jira-JiraXray, HTML, CSS, JS, API, Selenium, TestNG, JUnit, Cucumber, Jenkins, Appium, Cpress. </li>
 </ul>
   
+  <img align="center" src="https://github.com/SaidDemirhan/SaidDemirhan/blob/main/try.png?raw=true">
   
 <!--
 **SaidDemirhan/SaidDemirhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
