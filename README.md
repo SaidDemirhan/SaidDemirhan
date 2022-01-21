@@ -1,4 +1,4 @@
-<img src="https://github.com/SaidDemirhan/SaidDemirhan/blob/main/try.png?raw=true">
+<img src="https://github.com/SaidDemirhan/SaidDemirhan/blob/main/try.png?raw=true" align="center">
 
 <h1 align="center">Hello World! 👋 </h1>
 
