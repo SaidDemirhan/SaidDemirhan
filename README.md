@@ -7,7 +7,7 @@
 <ul>
   <li>⚡I'm currently working on start-up project</li>
   <li>🔭LinkedIn:linkedin.com/in/said-d-9a7025222 </li>
-  <li>📫Ask me about Java, SQL, Git-Github, Jira-JiraXray, HTML, CSS, JS, API, Selenium, TestNG, JUnit, Cucumber, Jenkins, Appium, Cpress. </li>
+  <li>📫Ask me about Java, SQL, Git-Github, Jira-JiraXray, HTML, CSS, JS, API, Selenium, TestNG, JUnit, Cucumber, Jenkins, Appium, Cypress. </li>
 </ul>
   
   <img align="center" src="https://github.com/SaidDemirhan/SaidDemirhan/blob/main/try.png?raw=true">
