@@ -6,7 +6,7 @@
 
 <ul>
   <li>⚡I'm currently working on start-up project</li>
-  <li>🔭LinkedIn:https://www.linkedin.com/in/said-demirhan-9a7025222/ </li>
+  <li>🔭LinkedIn:https://www.linkedin.com/in/said-demirhan/ </li>
   <li>📫Ask me about Java, SQL, Git-Github, Jira-JiraXray, HTML, CSS, JS, API, Selenium, TestNG, JUnit, Cucumber, Jenkins, Appium, Cypress, Network, Linux, Windows Server... </li>
 </ul>
   
