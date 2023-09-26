@@ -2,7 +2,7 @@
 
 <h3 align="center">✨Full Stack Web Deweloper and QA✨</h3>
 
-<p align="justify">I'am 36 years old, working in IT World. My favorite programming language is JAVA. Now working Selenium und Cypress.</p>
+<p align="justify">I'am working in IT World. My favorite programming language is JAVA. Now working IT-Administrator.</p>
 
 <ul>
   <li>⚡I'm currently working on start-up project</li>
